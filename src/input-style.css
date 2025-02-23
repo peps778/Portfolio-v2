@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 @layer base{
-    body{
+    ul {
+        list-style-type: none;
     }
+    
 }
