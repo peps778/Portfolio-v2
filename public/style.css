@@ -539,6 +539,10 @@ body{
   height: 10rem;
 }
 
+.h-5 {
+  height: 1.25rem;
+}
+
 .w-10 {
   width: 2.5rem;
 }
